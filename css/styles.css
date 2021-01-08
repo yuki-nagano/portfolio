@@ -10134,3 +10134,9 @@ section.resume-section .resume-section-content {
   float: right;
   width: 40%;
 }
+
+@media (max-width: 515px) {
+  .sm_none {
+    display: none;
+  }
+}
