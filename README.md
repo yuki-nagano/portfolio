@@ -1,7 +1,8 @@
-# Yuki's portfolio page
+# :snowflake: Yuki's portfolio page
 A junior back-end developer portfolio :)
 
-# Page detail
+ https://yuki-nagano.github.io/portfolio/
+# :snowflake: Page detail
 - Experience
     - As a developer
     - Before developer
@@ -12,8 +13,18 @@ A junior back-end developer portfolio :)
     - Bachelors degree
 - Interests
 
+# :snowflake: Emoji prefix
+| emoji | Commit type |
+| ---- | ---- |
+🎉 `:tada:`   | Initial commit
+✨`:sparkles:`|  New feature
+📝 `:pencil:` | Edit documentation
+🐛 `:bug:`    | Bugfix
+:abc`:abc:`   | Fix English grammar
+🎨`:art:`  | Improve format/structure
 
-# References
+
+# :snowflake: References
 Based off of template by Start Bootstrap: 
 https://startbootstrap.com/theme/resume
 
