@@ -2,6 +2,7 @@
 A junior back-end developer portfolio :)
 
  https://yuki-nagano.github.io/portfolio/
+ 
 # :snowman: Page detail
 - Experience
     - As a developer
@@ -13,7 +14,7 @@ A junior back-end developer portfolio :)
     - Bachelors degree
 - Interests
 
-# :snowman: Emoji prefix
+# :snowman: Commit prefix emoji
 | emoji | Commit type |
 | ---- | ---- |
 🎉 `:tada:`   | Initial commit
