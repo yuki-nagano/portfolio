@@ -10139,4 +10139,9 @@ section.resume-section .resume-section-content {
   .sm_none {
     display: none;
   }
+
+  .tennis {
+    width: 100%;
+  }
+
 }
