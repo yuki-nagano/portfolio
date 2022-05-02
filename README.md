@@ -1,5 +1,5 @@
 # :snowman: Yuki's portfolio page
-A junior back-end developer portfolio :)
+A self-taught software engineer portfolio :)
 
  https://yuki-nagano.github.io/portfolio/
  
