@@ -10,8 +10,6 @@ A self-taught software engineer portfolio :)
 - My Projects
 - Skills
 - Education
-    - Related courseworks
-    - Bachelors degree
 - Interests
 
 # :snowman: Commit prefix emoji
