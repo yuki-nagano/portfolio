@@ -12,16 +12,6 @@ A self-taught software engineer portfolio :)
 - Education
 - Interests
 
-# :snowman: Commit prefix emoji
-| emoji | Commit type |
-| ---- | ---- |
-🎉 `:tada:`   | Initial commit
-✨`:sparkles:`|  New feature
-📝 `:pencil:` | Edit documentation
-🐛 `:bug:`    | Bugfix
-:abc:`:abc:`   | Fix English grammar
-🎨`:art:`  | Improve format/structure
-
 
 # :snowman: References
 Based off of template by Start Bootstrap: 
